@@ -7,7 +7,7 @@
 </td>
 
 <td width="20%" valign="right">
-<img class="coding-gif" align="right" alt="coding" width="280" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
+<img class="coding-gif" align="right" alt="coding" width="250" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
