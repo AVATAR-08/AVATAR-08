@@ -1,22 +1,18 @@
 <table width="100%">
-
 <tr>
-<td width="70%" align="center" valign="middle">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;OPEN+TO+OPPORTUNITIES+;nightly+above+wizard!&font=Cambria&color=21F9FF&weight=1000&size=40&center=true&width=900&height=200&duration=3000&pause=1000")](https://git.io/typing-svg)
+<td width="80%" align="center" valign="middle">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;OPEN+TO+OPPORTUNITIES+;nightly+above+wizard!&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
 </td>
 
-<td width="30%" valign="right">
-
-<img class="coding-gif" align="right" alt="coding" width="300" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
-
+<td width="20%" valign="right">
+<img class="coding-gif" align="right" alt="coding" width="280" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
-
 </table>
 
- <!--#####################################################    VIEWRS COUNT   ##############################################################################-->
+ <!--#####################################################################    VIEWRS COUNT   ############################################################################################-->
 
 <div align="center">
   
@@ -25,140 +21,115 @@
 
 </div>
 
-</p>
-
- <!--#####################################################    ABOUT SECTION   ##############################################################################-->
+ <!--#####################################################################    ABOUT SECTION   ###########################################################################################-->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I AM  PRATYUSH RAJ
 =====================================================================================================================================
  
 - 🎓 B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA
 - 💫 AI & ML ENGINEER  
-- CURRENTLY DEEPNEING MY SKILLS IN 
+- 🔭CURRENTLY DEEPNEING MY SKILLS IN 
+- 🌱 FOUNDATIION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
 
- <!--#############################################################  TECH STACK SECTION  ###################################################################-->  
+ <!--#####################################################################  TECH STACK SECTION  #########################################################################################-->  
 # 💻 TECH STACK :
-<div align="center">
-  
+
+<div align="center"> 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,c,java" height="50"/>
-
-
-</td>
-<td width="50%" valign="top">
-
-### FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="50"/>
-
-
+<img src="https://skillicons.dev/icons?i=python,c,java" height="40"/>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td  valign="top">
 
-### 
-
-<img src="https://skillicons.dev/icons?i=" height="50"/>
-
-
+### DATABASES
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td  valign="top">
 
 ### AI / ML
 
-<img src="https://cdn.simpleicons.org//FFD21E" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org//7FC8FF" width="45" height="45"/>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-
+### FRAMEWORKS
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,gcp" height="50"/>
+###
 
 </td>
 </tr>
+<td width="50%" valign="top">
 
+### CLOUD
+<img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
+</td>
+</tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top">
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda" height="50"/>
-
+### TOOLS & PLATFORMS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" height="40"/>
 </td>
 </tr>
 </table>
-
 </div>
 
-</p>
-
- <!--########################################################################################################################################################-->
+ <!--####################################################################################################################################################################################-->
  
 # 🌐 CONNECT WITH ME
 
 <p align="center">
+ 
+<a href="mailto:shubhampy005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 
 <a href="https://github.com/AVATAR-08">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <a href="https://linkedin.com/in/pratyush--raj">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://leetcode.com/AVATAR-08">
- <img src="https://skillicons.dev/icons?i=leetcode" />
+<a href="https://www.leetcode.com/avatar-08" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avatar-08" height="40" width="40" />
 </a>
-
-<a href="mailto:shubhampy005@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
 </p>
 
-
-<!--############################################################################### 📊 GitHub Stats:  ######################################################-->
+<!--############################################################################### 📊 GitHub Stats:  ###################################################################################-->
 
 <p align="center">
 <img src="https://github-readme-stats-9ecw.vercel.app/api?username=AVATAR-08&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
+    width="49%" alt="GITHUB STATS"
 <br>  
 <img src="https://streak-stats.demolab.com/?user=AVATAR-08&theme=tokyonight&hide_border=true"
-    width="48%"
+    width="49%"
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-9ecw.vercel.app/api/top-langs/?username=AVATAR-08&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
-    alt="Top Languages"/>
+    width="60%"  alt="TOP LANGUAGES"/>
 </p>
 
 
-<!--############################################################################## 📈 Contribution Graph ################################################-->
+<!--############################################################################## 📈 Contribution Graph ################################################################################-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph-sigma-mauve.vercel.app/graph?username=AVATAR-08&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
+    width="98%" alt="GitHub Activity Graph" />
 </p>
