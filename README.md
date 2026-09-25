@@ -2,12 +2,12 @@
 <tr>
 <td width="80%" align="center" valign="middle">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;OPEN+TO+OPPORTUNITIES+;nightly+above+wizard!&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;OPEN+TO+OPPORTUNITIES+;BUILDING+PRACTICAL+AI+PROJECTS!&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
 </td>
 
 <td width="20%" valign="right">
-<img class="coding-gif" align="right" alt="coding" width="250" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
+<img class="coding-gif" align="right" alt="coding" width="200" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
@@ -28,7 +28,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 - 🎓 B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA
 - 💫 AI & ML ENGINEER  
-- 🔭CURRENTLY DEEPNEING MY SKILLS IN 
+- 🔭 CURRENTLY DEEPNEING MY SKILLS IN
+- 📊 LEARNING BY BUILDING PRACTICAL PROJECTS
 - 🌱 FOUNDATIION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
 
@@ -40,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <tr>
 <td valign="top">
 
-### LANGUAGES
+### PROGRAMMING LANGUAGES
 <img src="https://skillicons.dev/icons?i=python,c,java" height="40"/>
 </td>
 </tr>
@@ -61,7 +62,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <tr>
 <td width="50%" valign="top">
 
-### FRAMEWORKS
+### LIBRARIES & FRAMEWORKS
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
 </tr>
@@ -74,14 +75,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </tr>
 <td width="50%" valign="top">
 
-### CLOUD
+### CLOUD PLATFORMS
 <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### TOOLS & PLATFORMS
+### TOOLS
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" height="40"/>
 </td>
 </tr>
@@ -110,6 +111,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avatar-08" height="40" width="40" />
 </a>
 </p>
+
+---
 
 <!--############################################################################### 📊 GitHub Stats:  ###################################################################################-->
 
