@@ -42,7 +42,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <td valign="top">
 
 ### PROGRAMMING LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,c,java" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html" height="40"/>
 </td>
 </tr>
 <tr>
