@@ -75,14 +75,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-###
-
-</td>
-</tr>
-<td width="50%" valign="top">
 
 ### CLOUD PLATFORMS
 <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
