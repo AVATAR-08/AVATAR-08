@@ -65,7 +65,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
 
 </p>
-
 </td>
 </tr>
 <tr>
@@ -96,8 +95,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 # 🌐 CONNECT WITH ME
 
-<p align="center">
- 
+<p align="center"> 
 <a href="mailto:shubhampy005@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
@@ -131,7 +129,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-stats-9ecw.vercel.app/api/top-langs/?username=AVATAR-08&layout=compact&theme=tokyonight&hide_border=true"
     width="60%"  alt="TOP LANGUAGES"/>
 </p>
-
 
 <!--############################################################################## 📈 Contribution Graph ################################################################################-->
 
