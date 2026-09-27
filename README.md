@@ -63,17 +63,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
-
 </p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### LIBRARIES & FRAMEWORKS
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
 </tr>
+<tr>
+<td valign="top">
 
 ### CLOUD PLATFORMS
 <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
