@@ -2,7 +2,7 @@
 <tr>
 <td width="80%" align="center" valign="middle">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;OPEN+TO+OPPORTUNITIES+;BUILDING+PRACTICAL+AI+PROJECTS!&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+ENGINEER;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
 </td>
 
@@ -27,8 +27,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
  
 - 🎓 B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA
-- 💫 AI & ML ENGINEER  
-- 🔭 CURRENTLY DEEPNEING MY SKILLS IN
+- 💫 AI / ML ENGINEER  
+- 🔭 CURRENTLY DEEPNEING MY SKILLS IN NLP & GEN AI
 - 📊 LEARNING BY BUILDING PRACTICAL PROJECTS
 - 🌱 FOUNDATIION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
