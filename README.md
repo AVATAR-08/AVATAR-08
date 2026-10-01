@@ -7,7 +7,7 @@
 </td>
 
 <td width="20%" valign="right">
-<img class="coding-gif" align="right" alt="coding" width="200" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
+<img class="coding-gif" align="right" alt="coding" width="230" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
@@ -33,7 +33,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 FOUNDATIION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
 
----
  <!--#####################################################################  TECH STACK SECTION  #########################################################################################-->  
 # 💻 TECH STACK :
 
@@ -92,8 +91,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  <!--####################################################################################################################################################################################-->
  
----
- 
 # 🌐 CONNECT WITH ME
 
 <p align="center"> 
@@ -113,8 +110,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avatar-08" height="40" width="40" />
 </a>
 </p>
-
----
 
 <!--############################################################################### 📊 GitHub Stats:  ###################################################################################-->
 
@@ -137,3 +132,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-activity-graph-sigma-mauve.vercel.app/graph?username=AVATAR-08&theme=tokyo-night&hide_border=true"
     width="98%" alt="GitHub Activity Graph" />
 </p>
+
+---
