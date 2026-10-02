@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 💫 AI / ML ENGINEER  
 - 🔭 CURRENTLY DEEPNEING MY SKILLS IN NLP & GEN AI
 - 📊 LEARNING BY BUILDING PRACTICAL PROJECTS
-- 🌱 FOUNDATIION IN DSA & PROBLEM SOLVING
+- 🌱 FOUNDATION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
 
  <!--#####################################################################  TECH STACK SECTION  #########################################################################################-->  
