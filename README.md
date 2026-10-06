@@ -2,7 +2,7 @@
 <tr>
 <td width="80%" align="center" valign="middle">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+DATA+SCIENTIST;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
 </td>
 
