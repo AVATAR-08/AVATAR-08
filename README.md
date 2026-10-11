@@ -28,7 +28,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 - 🎓 B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA
 - 💫 AI / ML ENGINEER  
-- 🔭 CURRENTLY ENHANCING MY SKILLS BY CONTINIOUS IMPROVING THEM 
+- 🔭 ENHANCING MY SKILLS BY IMPLEMENTING THEM   
 - 📊 LEARNING BY BUILDING PRACTICAL PROJECTS
 - 🌱 FOUNDATION IN DSA & PROBLEM SOLVING
 - 🚀 OPEN TO OPPORTUNITIES
@@ -89,28 +89,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </table>
 </div>
 
- <!--####################################################################################################################################################################################-->
- 
-# 🌐 CONNECT WITH ME
-
-<p align="center"> 
-<a href="mailto:shubhampy005@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<a href="https://github.com/AVATAR-08">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/pratyush--raj">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://www.leetcode.com/avatar-08" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avatar-08" height="40" width="40" />
-</a>
-</p>
-
 <!--############################################################################### 📊 GitHub Stats:  ###################################################################################-->
 
 <p align="center">
@@ -134,3 +112,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ---
+<!--####################################################################################################################################################################################-->
+ 
+# 🌐 CONNECT WITH ME
+
+<p align="center"> 
+<a href="mailto:shubhampy005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://github.com/AVATAR-08">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/pratyush--raj">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.leetcode.com/avatar-08" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avatar-08" height="40" width="40" />
+</a>
+</p>
