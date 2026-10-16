@@ -2,12 +2,12 @@
 <tr>
 <td width="80%" align="center" valign="middle">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=950&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES🚀+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=1000&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
 </td>
 
 <td width="20%" valign="right">
-<img class="coding-gif" align="right" alt="coding" width="230" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
+<img class="coding-gif" align="right" alt="coding" width="250" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
@@ -23,15 +23,14 @@
 
  <!--#####################################################################    ABOUT SECTION   ###########################################################################################-->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I AM  PRATYUSH RAJ
-=====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I AM  PRATYUSH RAJ
  
-- 🎓 B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA
-- 💫 AI / ML ENGINEER  
-- 🔭 ENHANCING MY SKILLS BY IMPLEMENTING THEM   
-- 📊 LEARNING BY BUILDING PRACTICAL PROJECTS
-- 🌱 FOUNDATION IN DSA & PROBLEM SOLVING
-- 🚀 OPEN TO OPPORTUNITIES
+### - 🎓 *A B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA*
+### - 💫 *AN AI / ML ENGINEER* 
+### - 🔭 *DEEPNING  MY SKILLS BY IMPLEMENTING THEM*  
+### - 📊 *LEARNING BY BUILDING PRACTICAL PROJECTS*
+### - 🌱 *ENHACHING PROBLEM SOLVING & DSA*
+### - 🚀 *OPEN TO OPPORTUNITIES*
 
  <!--#####################################################################  TECH STACK SECTION  #########################################################################################-->  
 # 💻 TECH STACK :
@@ -90,6 +89,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <!--############################################################################### 📊 GitHub Stats:  ###################################################################################-->
+# 📊 GITHUB STATISTICS
 
 <p align="center">
 <img src="https://github-readme-stats-9ecw.vercel.app/api?username=AVATAR-08&show_icons=true&theme=tokyonight&hide_border=true"
@@ -111,7 +111,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     width="98%" alt="GitHub Activity Graph" />
 </p>
 
----
 <!--####################################################################################################################################################################################-->
  
 # 🌐 CONNECT WITH ME
