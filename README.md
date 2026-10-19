@@ -1,16 +1,16 @@
 <table width="100%">
 <tr>
-<td width="80%" align="center" valign="middle">
+<td align="center" valign="middle">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7CML+ENGINEER+%7C+;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES🚀+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=1000&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=HEY%2C+I+AM+PRATYUSH+RAJ+;AI+ENGINEER+%7C+ML+ENGINEER+%7C+NLP+ENGINEER+%7C;BUILDING+PRACTICAL+AI+PROJECTS!;OPEN+TO+OPPORTUNITIES🚀+&font=Cambria&color=21F9FF&weight=100&size=46&center=true&width=1000&height=100&duration=2000&pause=1000")](https://git.io/typing-svg)
 
-</td>
-
-<td width="20%" valign="right">
-<img class="coding-gif" align="right" alt="coding" width="250" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
 </td>
 </tr>
 </table>
+
+<p  align="center">
+<img class="coding-gif" align="center" alt="coding" width="500" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
+</p>
 
  <!--#####################################################################    VIEWRS COUNT   ############################################################################################-->
 
