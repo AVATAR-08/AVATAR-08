@@ -25,13 +25,12 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I AM  PRATYUSH RAJ ! 
  
-### - 🎓 *A B.TECH CSE [AI & ML] UNDERGRAD FROM INDIA*
-### - 💫 *AN AI / ML ENGINEER* 
-### - 🔭 *Currently exploring various Sub-Fields of AI Including NLP, LLMs & More*
-### - 📊 *LEARNING BY BUILDING PRACTICAL PROJECTS*
-### - 🌱 *ENHACHING PROBLEM SOLVING & DSA*
-### - 🚀 *OPEN TO OPPORTUNITIES*
-### - **I am excited to continue my journey in Al engineering and machine learning, exploring new projects and expanding my skill set. Feel free to reach out if you share similar interests or if you have any collaboration ideas. Let's connect and innovate together!**
+### - 𝙰 𝙱.𝚃𝙴𝙲𝙷 𝙲𝚂𝙴 [𝙰𝙸 & 𝙼𝙻] 𝚄𝙽𝙳𝙴𝚁𝙶𝚁𝙰𝙳 𝙵𝚁𝙾𝙼 𝙸𝙽𝙳𝙸𝙰
+### - 💫 𝙰𝙽 𝙰𝙸 / 𝙼𝙻 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁 
+### - 🔭 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚂𝚞𝚋-𝙵𝚒𝚎𝚕𝚍𝚜 𝚘𝚏 𝙰𝙸 𝙸𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝙽𝙻𝙿, 𝙻𝙻𝙼𝚜 & 𝙼𝚘𝚛𝚎 
+### - 📊 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 𝙱𝚈 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 𝙿𝚁𝙰𝙲𝚃𝙸𝙲𝙰𝙻 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 
+### - 🌱 𝙴𝙽𝙷𝙰𝙲𝙷𝙸𝙽𝙶 𝙿𝚁𝙾𝙱𝙻𝙴𝙼 𝚂𝙾𝙻𝚅𝙸𝙽𝙶 & 𝙳𝚂𝙰 - 🚀 𝙾𝙿𝙴𝙽 𝚃𝙾 𝙾𝙿𝙿𝙾𝚁𝚃𝚄𝙽𝙸𝚃𝙸𝙴𝚂 
+### - 𝙸 𝚊𝚖 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚎 𝚖𝚢 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚒𝚗 𝙰𝚕 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚎𝚡𝚙𝚊𝚗𝚍𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕 𝚜𝚎𝚝. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚑𝚊𝚛𝚎 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚘𝚛 𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚊𝚗𝚢 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 𝚒𝚍𝚎𝚊𝚜. 𝙻𝚎𝚝'𝚜 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚊𝚗𝚍 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛!
  <!--#####################################################################  TECH STACK SECTION  #########################################################################################-->  
 # 💻 TECH STACK :
 
