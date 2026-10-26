@@ -54,6 +54,7 @@
 <td  valign="top">
 
 ### AI / ML
+<img src="https://skillicons.dev/icons?i=NLP, LLM" height="40"/>
 <p align="left">
   <p align="left">
  
