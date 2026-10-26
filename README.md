@@ -56,10 +56,7 @@
 ### AI / ML
 <p align="left">
   <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+ 
 </p>
 </td>
 </tr>
@@ -67,6 +64,10 @@
 <td valign="top">
 
 ### LIBRARIES & FRAMEWORKS
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
 </tr>
