@@ -43,6 +43,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,java,html" height="40"/>
 </td>
 </tr>
+
 <tr>
 <td  valign="top">
 
@@ -50,28 +51,36 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </td>
 </tr>
+
 <tr>
 <td  valign="top">
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=NLP, LLM" height="40"/>
+### AI&ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/NLP-102230?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
+  <img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 <p align="left">
   <p align="left">
  
 </p>
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 
 ### LIBRARIES & FRAMEWORKS
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40"/>
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 
@@ -79,6 +88,7 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 
